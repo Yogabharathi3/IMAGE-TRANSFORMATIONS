@@ -149,16 +149,30 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
+![Screenshot 2024-03-13 140426](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/28156dcf-358e-4bc1-8262-8d026159bcc0)
+![Screenshot 2024-03-13 140433](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/254f434d-3808-4628-8040-7831b9d50803)
 
 ### ii) Image Scaling
+![Screenshot 2024-03-13 140647](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/da2728bc-22a4-47a1-b683-d75e0291376c)
+![Screenshot 2024-03-13 140655](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/e7f7463a-3e2d-48ad-8406-b4a831ebdd9a)
 
 ### iii)Image shearing
+![Screenshot 2024-03-13 140834](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/5eaf2b39-a0cf-4c85-89ee-7a2928a0fca3)
+![Screenshot 2024-03-13 140841](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/96356b1a-686f-4e7a-8996-45e36e3ae1d9)
+![Screenshot 2024-03-13 140847](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/7fa18db4-06e2-4471-95aa-7ab174d3b87b)
 
 ### iv)Image Reflection
+![image](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/3c4971f8-b8a4-406a-ba60-323f93415606)
+![Screenshot 2024-03-13 141038](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/93b26f93-cfac-4aa8-9d27-48535c97ec39)
+![Screenshot 2024-03-13 141050](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/7b3519cd-4921-4575-8827-6b2ac904188a)
 
 ### v)Image Rotation
+![Screenshot 2024-03-13 141156](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/28d4f6bb-3754-42e7-b083-41dedf08c2dc)
+![Screenshot 2024-03-13 141204](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/a92d58a5-491a-401d-9a76-e265765116b4)
 
 ### vi)Image Cropping
+![Screenshot 2024-03-13 141328](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/b383a754-4e25-44fc-b6f2-f7f3be01cfae)
+![Screenshot 2024-03-13 141335](https://github.com/Yogabharathi3/IMAGE-TRANSFORMATIONS/assets/118899387/ccb76dd9-491b-42d1-88fe-470361a89020)
 
 ## Result: 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
